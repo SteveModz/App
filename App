@@ -6,7 +6,7 @@
   "App": {
     "Version": "1.0.0",
     "Download": "null",
-    "Message": "Welcome To Steve Modz Xbox Tool\nPlease Use Some Features At Your Own Risk!\n\nDiscord Support - discord.gg/stevemodz",
+    "Message": "",
     "MainPic": "https://wallpaperaccess.com/full/278985.jpg"
   }
 }
