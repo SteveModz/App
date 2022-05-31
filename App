@@ -1,7 +1,7 @@
 {
   "Discord": {
     "Webhook": "https://discord.com/api/webhooks/958071032214872164/y63Fqrm3jSFgIzG3RWYDRmFJDtl0eihH9ZW6kAlzKKScmLEK1zs1E0X1lLseqE2UYr7h",
-    "Logs": "false"
+    "Logs": "true"
   },
   "App": {
     "Version": "1.0.0",
