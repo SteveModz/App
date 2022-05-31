@@ -6,7 +6,7 @@
   "App": {
     "Version": "1.0.0",
     "Download": "null",
-    "Message": "Hello babe, how are you?",
+    "Message": "This is a message from the site! 👋",
     "MainPic": "https://wallpaperaccess.com/full/278985.jpg"
   }
 }
