@@ -5,6 +5,8 @@
   },
   "App": {
     "Version": "1.0.0",
-    "Download": "null"
+    "Download": "null",
+    "Message": "This is a test",
+    "MainPic": "https://assets.xboxservices.com/assets/c0/5d/c05de589-b3b8-4194-af4f-f75e2ae2ca6f.jpg?n=786849_Small-tout-0_1067x600.jpg"
   }
 }
