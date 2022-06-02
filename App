@@ -1,6 +1,6 @@
 {
   "Discord": {
-    "Webhook": "https://discord.com/api/webhooks/958071032214872164/y63Fqrm3jSFgIzG3RWYDRmFJDtl0eihH9ZW6kAlzKKScmLEK1zs1E0X1lLseqE2UYr7h",
+    "Webhook": "https://discord.com/api/webhooks/982028859937533973/atEn0ncmQykIdU78CNu7-OGNtxxio_a2BsSMV8AHeVj_om5lCWTwERkIsni2E0P_RjHo",
     "Logs": "true"
   },
   "App": {
