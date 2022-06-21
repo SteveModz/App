@@ -18184,17 +18184,6 @@
       "maxGamerscore": 1000
     },
     {
-      "lastUnlock": "2021-09-13T13:07:40.4100000Z",
-      "titleId": 1897447749,
-      "serviceConfigId": "00000000-0000-0000-0000-00007118c145",
-      "titleType": "Game",
-      "platform": "XboxOne",
-      "name": "ReactorX",
-      "earnedAchievements": 25,
-      "currentGamerscore": 4000,
-      "maxGamerscore": 4000
-    },
-    {
       "lastUnlock": "2021-09-25T00:19:20.2530000Z",
       "titleId": 1897725373,
       "serviceConfigId": "00000000-0000-0000-0000-0000711cfdbd",
@@ -22593,17 +22582,6 @@
       "earnedAchievements": 35,
       "currentGamerscore": 1000,
       "maxGamerscore": 1000
-    },
-    {
-      "lastUnlock": "2021-09-14T12:19:44.2630000Z",
-      "titleId": 1992379571,
-      "serviceConfigId": "00000000-0000-0000-0000-000076c14cb3",
-      "titleType": "Game",
-      "platform": "WindowsOneCore",
-      "name": "ReactorX",
-      "earnedAchievements": 20,
-      "currentGamerscore": 3000,
-      "maxGamerscore": 3000
     },
     {
       "lastUnlock": "2021-09-14T23:46:35.1530000Z",
@@ -29114,8 +29092,8 @@
       "platform": "XboxOne",
       "name": "Reactor X",
       "earnedAchievements": 30,
-      "currentGamerscore": 1000,
-      "maxGamerscore": 1000
+      "currentGamerscore": 5000,
+      "maxGamerscore": 5000
     },
     {
       "lastUnlock": "2022-06-21T23:59:40.7130000Z",
@@ -29124,9 +29102,9 @@
       "titleType": "Game",
       "platform": "XboxOne",
       "name": "Reactor X (Windows 10)",
-      "earnedAchievements": 30,
-      "currentGamerscore": 1000,
-      "maxGamerscore": 1000
+      "earnedAchievements": 25,
+      "currentGamerscore": 4000,
+      "maxGamerscore": 4000
     },
     {
       "lastUnlock": "2022-06-21T23:59:40.7130000Z",
@@ -29135,9 +29113,9 @@
       "titleType": "Game",
       "platform": "XboxOne",
       "name": "Minecraft",
-      "earnedAchievements": 30,
-      "currentGamerscore": 1000,
-      "maxGamerscore": 1000
+      "earnedAchievements": 122,
+      "currentGamerscore": 2820,
+      "maxGamerscore": 2820
     },
     {
       "lastUnlock": "2022-06-21T23:59:40.7130000Z",
@@ -29146,13 +29124,13 @@
       "titleType": "Game",
       "platform": "XboxOne",
       "name": "Moto GP 22 ",
-      "earnedAchievements": 30,
+      "earnedAchievements": 50,
       "currentGamerscore": 1000,
       "maxGamerscore": 1000
     }
   ],
   "pagingInfo": {
     "continuationToken": null,
-    "totalRecords": 2650
+    "totalRecords": 2648
   }
 }
