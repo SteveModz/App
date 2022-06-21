@@ -29094,10 +29094,65 @@
       "earnedAchievements": 30,
       "currentGamerscore": 1000,
       "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1771004118,
+      "serviceConfigId": "00000000-0000-0000-0000-0000698f60d6",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Sniper Elite 5",
+      "earnedAchievements": 30,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1897447749,
+      "serviceConfigId": "00000000-0000-0000-0000-00007118c145",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Reactor X",
+      "earnedAchievements": 30,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1992379571,
+      "serviceConfigId": "00000000-0000-0000-0000-000076c14cb3",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Reactor X (Windows 10)",
+      "earnedAchievements": 30,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1828326430,
+      "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Minecraft",
+      "earnedAchievements": 30,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1944950992,
+      "serviceConfigId": "00000000-0000-0000-0000-000073ed98d0",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Moto GP 22 ",
+      "earnedAchievements": 30,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
     }
   ],
   "pagingInfo": {
     "continuationToken": null,
-    "totalRecords": 2645
+    "totalRecords": 2650
   }
 }
