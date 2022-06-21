@@ -29072,10 +29072,32 @@
       "earnedAchievements": 34,
       "currentGamerscore": 1000,
       "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1802207786,
+      "serviceConfigId": "00000000-0000-0000-0000-00006b6b822a",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Hot Wheels Unleashed",
+      "earnedAchievements": 34,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1756421327,
+      "serviceConfigId": "00000000-0000-0000-0000-000068b0dccf",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "earnedAchievements": 34,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
     }
   ],
   "pagingInfo": {
     "continuationToken": null,
-    "totalRecords": 2643
+    "totalRecords": 2645
   }
 }
