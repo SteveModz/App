@@ -29123,7 +29123,40 @@
       "serviceConfigId": "00000000-0000-0000-0000-000073ed98d0",
       "titleType": "Game",
       "platform": "XboxOne",
-      "name": "Moto GP 22 ",
+      "name": "Moto GP 22",
+      "earnedAchievements": 50,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1925947069,
+      "serviceConfigId": "00000000-0000-0000-0000-000072cb9ebd",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Far Cry 6",
+      "earnedAchievements": 50,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 964818375,
+      "serviceConfigId": "990c0100-744a-43a8-a8b1-5a5e3981f5c7",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Assassins Creed Odyssey",
+      "earnedAchievements": 50,
+      "currentGamerscore": 1000,
+      "maxGamerscore": 1000
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1750701033,
+      "serviceConfigId": "00000000-0000-0000-0000-0000685993e9",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Tiny Tina's Wonderlands",
       "earnedAchievements": 50,
       "currentGamerscore": 1000,
       "maxGamerscore": 1000
@@ -29131,6 +29164,6 @@
   ],
   "pagingInfo": {
     "continuationToken": null,
-    "totalRecords": 2648
+    "totalRecords": 2651
   }
 }
