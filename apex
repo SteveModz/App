@@ -29135,20 +29135,9 @@
       "titleType": "Game",
       "platform": "XboxOne",
       "name": "Far Cry 6",
-      "earnedAchievements": 50,
-      "currentGamerscore": 1000,
-      "maxGamerscore": 1000
-    },
-    {
-      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
-      "titleId": 964818375,
-      "serviceConfigId": "990c0100-744a-43a8-a8b1-5a5e3981f5c7",
-      "titleType": "Game",
-      "platform": "XboxOne",
-      "name": "Assassins Creed Odyssey",
-      "earnedAchievements": 50,
-      "currentGamerscore": 1000,
-      "maxGamerscore": 1000
+      "earnedAchievements": 88,
+      "currentGamerscore": 1815,
+      "maxGamerscore": 1815
     },
     {
       "lastUnlock": "2022-06-21T23:59:40.7130000Z",
@@ -29157,13 +29146,13 @@
       "titleType": "Game",
       "platform": "XboxOne",
       "name": "Tiny Tina's Wonderlands",
-      "earnedAchievements": 50,
-      "currentGamerscore": 1000,
-      "maxGamerscore": 1000
+      "earnedAchievements": 41,
+      "currentGamerscore": 1020,
+      "maxGamerscore": 1020
     }
   ],
   "pagingInfo": {
     "continuationToken": null,
-    "totalRecords": 2651
+    "totalRecords": 2650
   }
 }
