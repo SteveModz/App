@@ -29149,10 +29149,32 @@
       "earnedAchievements": 41,
       "currentGamerscore": 1020,
       "maxGamerscore": 1020
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1880727250,
+      "serviceConfigId": "00000000-0000-0000-0000-000070199ed2",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Unpacking",
+      "earnedAchievements": 41,
+      "currentGamerscore": 1020,
+      "maxGamerscore": 1020
+    },
+    {
+      "lastUnlock": "2022-06-21T23:59:40.7130000Z",
+      "titleId": 1813085990,
+      "serviceConfigId": "00000000-0000-0000-0000-00006c117f26",
+      "titleType": "Game",
+      "platform": "XboxOne",
+      "name": "Road 96",
+      "earnedAchievements": 41,
+      "currentGamerscore": 1020,
+      "maxGamerscore": 1020
     }
   ],
   "pagingInfo": {
     "continuationToken": null,
-    "totalRecords": 2650
+    "totalRecords": 2652
   }
 }
